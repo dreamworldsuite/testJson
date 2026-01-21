@@ -2,9 +2,9 @@
 
 json files:
 
-test1/buildingsV1Test1.json    </br>
-test1/buildingsV1Test2.json    </br>
-test1/buildingsV1Test3.json    </br>
+buildingsV1Test1.json    </br>
+buildingsV1Test2.json    </br>
+buildingsV1Test3.json    </br>
 
 Tags:
 
