@@ -4,8 +4,9 @@ Folder -> json                     </br>
                                    </br>
 test2  -> buildingsV1Test4.json    </br>
 test3  -> buildingsV1Test5.json    </br>
+test6  -> buildingsV1Test6.json    </br>
 
 
 Tags:
 
-v0.1.5          -> 21 feb 26
+v0.1.6          -> 22 feb 26
