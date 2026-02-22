@@ -1,11 +1,11 @@
 # testJson
 
-json files:
+Folder -> json                     </br>
+                                   </br>
+test2  -> buildingsV1Test4.json    </br>
+test3  -> buildingsV1Test5.json    </br>
 
-buildingsV1Test1.json    </br>
-buildingsV1Test2.json    </br>
-buildingsV1Test3.json    </br>
 
 Tags:
 
-v0.1.0          -> 21 gen 26
+v0.1.3          -> 21 feb 26

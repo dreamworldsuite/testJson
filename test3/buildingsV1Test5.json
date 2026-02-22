@@ -1,0 +1,323 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "buildingsV1Test5",
+    "repoJson": "testJson",
+    "note": "Usato per test runtime con jsDelivr"
+  },
+  "version": 1,
+  "minAppVersion": 1,
+  "generatedAt": "2025-01-21T12:00:00Z",
+  "terrain":{
+    "layer":{
+      "id": "TL_Grass",
+      "source": "local"
+    }
+  },
+  "edifici": 
+  [
+    {
+      "id": "casale_monferrato",
+      "address": "Torre_A",
+      "label": "Casale Monferrato",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 280, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/casaleNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 128, "y": 0.0, "z": 254 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "casale_popolo",
+      "address": "Ponte_A",
+      "label": "Casale Popolo",
+
+      "critical": false,
+      "source": "remote",
+
+      "ui": {
+        "hasButton": false,
+        "buttonSize": { "w": 280, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/casaleNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 115, "y": 0.0, "z": 270 },
+        "rotation": { "x": 0, "y": 45, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "balzola",
+      "address": "Torre_A",
+      "label": "Balzola",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": false,
+        "buttonSize": { "w": 280, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/casaleNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 53.4, "y": 0.0, "z": 360 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "camagna_monferrato",
+      "address": "Torre_D",
+      "label": "Camagna Monferrato",
+
+      "critical": false,
+      "source": "remote",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 310, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/camagnaNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 102.3, "y": 0.0, "z": -11.1 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "conzano",
+      "address": "Torre_A",
+      "label": "Conzano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/conzanoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 144.8, "y": 0.0, "z": -6.7 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "cuccaro",
+      "address": "Torre_A",
+      "label": "Cuccaro",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/conzanoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 145, "y": 0.0, "z": -72.2 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "frassineto_po",
+      "address": "Torre_D",
+      "label": "Frassineto Po",
+
+      "critical": false,
+      "source": "remote",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 230, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/frassinetoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 265.3, "y": 0.0, "z": 249.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "roncaglia",
+      "address": "Torre_A",
+      "label": "Roncaglia",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/roncagliaNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 122, "y": 0.0, "z": 64 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "san_germano",
+      "address": "Torre_D",
+      "label": "San Germano",
+
+      "critical": false,
+      "source": "remote",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 220, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/sgermanoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 136, "y": 0.0, "z": 172 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    },
+	{
+      "id": "ticineto",
+      "address": "Torre_A",
+      "label": "Ticineto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 220, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/sgermanoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 300.3, "y": 0.0, "z": 164 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
+      }
+    }
+  ],
+  "entities": [
+  {
+     "id": "mercante_01",
+	 "type": "npc",
+     "address": "Mercante_01",
+     "label": "Mercante itinerante",
+     "source": "local",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Casale Monferrato",
+       "offset": { "x": -20, "y": 0, "z": 0 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Mercante",
+       "buttonSize": { "w": 130, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "mercante_trade",
+       "scene": "MercanteScene",
+       "config": "events/mercante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 110, "y": 0.0, "z": 250 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1, "y": 1, "z": 1 }
+     }
+   },
+   {
+     "id": "cavallo_nero",
+	 "type": "npc",
+     "address": "Cavallo_Nero",
+     "label": "Cavallo Nero",
+	 "source": "remote",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Conzano",
+       "offset": { "x": -20, "y": 0, "z": 0 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Mercante",
+       "buttonSize": { "w": 130, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "mercante_trade",
+       "scene": "MercanteScene",
+       "config": "events/mercante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 110, "y": 0.0, "z": 250 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1, "y": 1, "z": 1 }
+     }
+   }
+  ]
+}
