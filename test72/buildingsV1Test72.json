@@ -1,12 +1,12 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "buildingsV1Test7",
+    "nomeJson": "buildingsV1Test72",
     "repoJson": "testJson",
     "note": "Usato per test runtime con jsDelivr"
   },
   "version": 1,
   "minAppVersion": 1,
-  "generatedAt": "2025-01-23T16:00:00Z",
+  "generatedAt": "2025-02-25T12:00:00Z",
   "terrain":{
     "layer":{
       "id": "TL_Grass",
@@ -18,14 +18,14 @@
     {
       "id": "casale_monferrato",
       "address": "Torre_A",
-      "label": "Casale Monferrato",
+      "label": "Casale",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 280, "h": 40 }
+        "buttonSize": { "w": 140, "h": 40 }
       },
 
       "content": {
@@ -35,7 +35,7 @@
       "transform": {
         "position": { "x": 128, "y": 0.0, "z": 254 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -58,7 +58,7 @@
       "transform": {
         "position": { "x": -744.2, "y": 0.0, "z": 370.5 },
         "rotation": { "x": 0, "y": 90, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -81,7 +81,7 @@
       "transform": {
         "position": { "x": -151.7, "y": 0.0, "z": 64.5 },
         "rotation": { "x": 0, "y": 270, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -94,7 +94,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 200, "h": 40 }
+        "buttonSize": { "w": 190, "h": 40 }
       },
 
       "content": {
@@ -104,20 +104,20 @@
       "transform": {
         "position": { "x": -48.1, "y": 0.0, "z": 270.3 },
         "rotation": { "x": 0, "y": 180, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "alfiano_natta",
       "address": "Torre_A",
-      "label": "Alfiano Natta",
+      "label": "Alfiano",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 230, "h": 40 }
+        "buttonSize": { "w": 140, "h": 40 }
       },
 
       "content": {
@@ -127,20 +127,20 @@
       "transform": {
         "position": { "x": -246.9, "y": 0.0, "z": 58.3 },
         "rotation": { "x": 0, "y": 270, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "altavilla_monferrato",
       "address": "Torre_A",
-      "label": "Altavilla Monferrato",
+      "label": "Altavilla",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 320, "h": 40 }
+        "buttonSize": { "w": 150, "h": 40 }
       },
 
       "content": {
@@ -150,7 +150,7 @@
       "transform": {
         "position": { "x": 16.1, "y": 0.0, "z": -65.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -173,7 +173,7 @@
       "transform": {
         "position": { "x": 53.4, "y": 0.0, "z": 360 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -196,7 +196,7 @@
       "transform": {
         "position": { "x": 579, "y": 0.0, "z": -44.9 },
         "rotation": { "x": 0, "y": 180, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -219,7 +219,7 @@
       "transform": {
         "position": { "x": 366, "y": 0.0, "z": 101.6 },
         "rotation": { "x": 0, "y": 250, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -232,7 +232,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 270, "h": 40 }
+        "buttonSize": { "w": 290, "h": 40 }
       },
 
       "content": {
@@ -242,7 +242,7 @@
       "transform": {
         "position": { "x": 248.8, "y": 0.0, "z": 145.3 },
         "rotation": { "x": 0, "y": 160, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -255,7 +255,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 170, "h": 40 }
+        "buttonSize": { "w": 160, "h": 40 }
       },
 
       "content": {
@@ -265,20 +265,20 @@
       "transform": {
         "position": { "x": -169.6, "y": 0.0, "z": -34.2 },
         "rotation": { "x": 0, "y": 120, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "camagna_monferrato",
       "address": "Torre_A",
-      "label": "Camagna Monferrato",
+      "label": "Camagna",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 310, "h": 40 }
+        "buttonSize": { "w": 170, "h": 40 }
       },
 
       "content": {
@@ -288,7 +288,7 @@
       "transform": {
         "position": { "x": 102.3, "y": 0.0, "z": -11.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -301,7 +301,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 135, "h": 40 }
+        "buttonSize": { "w": 150, "h": 40 }
       },
 
       "content": {
@@ -311,7 +311,7 @@
       "transform": {
         "position": { "x": -131.8, "y": 0.0, "z": 308.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -324,7 +324,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 150, "h": 40 }
+        "buttonSize": { "w": 155, "h": 40 }
       },
 
       "content": {
@@ -334,20 +334,20 @@
       "transform": {
         "position": { "x": -48.2, "y": 0.0, "z": 0.2 },
         "rotation": { "x": 0, "y": 70, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "castagnole_monferrato",
       "address": "Torre_A",
-      "label": "Castagnole Monferrato",
+      "label": "Castagnole",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 295, "h": 40 }
+        "buttonSize": { "w": 195, "h": 40 }
       },
 
       "content": {
@@ -357,20 +357,20 @@
       "transform": {
         "position": { "x": -86.1, "y": 0.0, "z": -140.4 },
         "rotation": { "x": 0, "y": 45, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "castelletto_merli",
       "address": "Torre_A",
-      "label": "Castelletto Merli",
+      "label": "Castelletto de' Merli",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 280, "h": 40 }
+        "buttonSize": { "w": 305, "h": 40 }
       },
 
       "content": {
@@ -380,13 +380,13 @@
       "transform": {
         "position": { "x": -209.5, "y": 0.0, "z": 144.6 },
         "rotation": { "x": 0, "y": 30, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "castelletto_monferrato",
       "address": "Torre_A",
-      "label": "Castelletto Monferrato",
+      "label": "Castelletto",
 
       "critical": true,
       "source": "local",
@@ -403,20 +403,20 @@
       "transform": {
         "position": { "x": 311.3, "y": 0.0, "z": -95.3 },
         "rotation": { "x": 0, "y": 140, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "castello_di_annone",
       "address": "Torre_A",
-      "label": "Castello di Annone",
+      "label": "Castel d'Annone",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 200, "h": 40 }
+        "buttonSize": { "w": 260, "h": 40 }
       },
 
       "content": {
@@ -426,20 +426,20 @@
       "transform": {
         "position": { "x": -77.8, "y": 0.0, "z": -320.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "cella_monte",
       "address": "Torre_A",
-      "label": "Cella Monte",
+      "label": "Cella",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 210, "h": 40 }
+        "buttonSize": { "w": 120, "h": 40 }
       },
 
       "content": {
@@ -449,7 +449,7 @@
       "transform": {
         "position": { "x": 41.4, "y": 0.0, "z": 113.3 },
         "rotation": { "x": 0, "y": 160, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -472,20 +472,20 @@
       "transform": {
         "position": { "x": -74.3, "y": 0.0, "z": 142.1 },
         "rotation": { "x": 0, "y": 10, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "cerrina_monferrato",
       "address": "Torre_A",
-      "label": "Cerrina Monferrato",
+      "label": "Cerrina",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 295, "h": 40 }
+        "buttonSize": { "w": 150, "h": 40 }
       },
 
       "content": {
@@ -495,20 +495,20 @@
       "transform": {
         "position": { "x": -235.3, "y": 0.0, "z": 216.5 },
         "rotation": { "x": 0, "y": 140, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
       "id": "cerro_tanaro",
       "address": "Torre_A",
-      "label": "Cerro Tanaro",
+      "label": "Cerro",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 210, "h": 40 }
+        "buttonSize": { "w": 230, "h": 40 }
       },
 
       "content": {
@@ -518,7 +518,7 @@
       "transform": {
         "position": { "x": -1.4, "y": 0.0, "z": -340.8 },
         "rotation": { "x": 0, "y": 65, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -541,7 +541,7 @@
       "transform": {
         "position": { "x": 8, "y": 0.0, "z": 279.7 },
         "rotation": { "x": 0, "y": 80, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -554,7 +554,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 150, "h": 40 }
+        "buttonSize": { "w": 170, "h": 40 }
       },
 
       "content": {
@@ -564,7 +564,7 @@
       "transform": {
         "position": { "x": 144.8, "y": 0.0, "z": -6.7 },
         "rotation": { "x": 0, "y": 220, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -577,7 +577,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 150, "h": 40 }
+        "buttonSize": { "w": 160, "h": 40 }
       },
 
       "content": {
@@ -587,20 +587,43 @@
       "transform": {
         "position": { "x": 145, "y": 0.0, "z": -72.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
-      "id": "frassineto_po",
+      "id": "frassinello",
       "address": "Torre_A",
-      "label": "Frassineto Po",
+      "label": "Frassinello",
 
       "critical": true,
       "source": "local",
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 230, "h": 40 }
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/frassinelloNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 36.4, "y": 0.0, "z": 20.5 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "frassineto_po",
+      "address": "Torre_A",
+      "label": "Frassineto",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
       },
 
       "content": {
@@ -610,7 +633,214 @@
       "transform": {
         "position": { "x": 265.3, "y": 0.0, "z": 249.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "gabiano",
+      "address": "Torre_A",
+      "label": "Gabiano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 160, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/gabianoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": -270.2, "y": 0.0, "z": 304.1 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "lu",
+      "address": "Torre_A",
+      "label": "Lu",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 90, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/luNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 186.2, "y": 0.0, "z": -48.7 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "mirabello",
+      "address": "Torre_A",
+      "label": "Mirabello",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 170, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/mirabelloNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 278.6, "y": 0.0, "z": 47.5 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "occimiano",
+      "address": "Torre_A",
+      "label": "Occimiano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 185, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/occimianoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 221.4, "y": 0.0, "z": 85.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "olivola",
+      "address": "Torre_A",
+      "label": "Olivola",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/olivolaNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 3.9, "y": 0.0, "z": 31 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "ozzano",
+      "address": "Torre_A",
+      "label": "Ozzano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/ozzanoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 18.4, "y": 0.0, "z": 178.1 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "rosignano",
+      "address": "Torre_A",
+      "label": "Rosignano",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 190, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/rosignanoNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 53.9, "y": 0.0, "z": 128.3 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "sala",
+      "address": "Torre_A",
+      "label": "Sala",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 110, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/salaNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": -12, "y": 0.0, "z": 117.8 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "sangiorgio",
+      "address": "Torre_A",
+      "label": "San giorgio",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 200, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/sgiorgioNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 75.2, "y": 0.0, "z": 188.5 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     },
 	{
@@ -623,7 +853,7 @@
 
       "ui": {
         "hasButton": true,
-        "buttonSize": { "w": 170, "h": 40 }
+        "buttonSize": { "w": 160, "h": 40 }
       },
 
       "content": {
@@ -633,7 +863,53 @@
       "transform": {
         "position": { "x": 300.3, "y": 0.0, "z": 164 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.5, "y": 0.5, "z": 0.5 }
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "treville",
+      "address": "Torre_A",
+      "label": "Treville",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 150, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/trevilleNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": -6.2, "y": 0.0, "z": 163.7 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+      }
+    },
+	{
+      "id": "vignale",
+      "address": "Torre_A",
+      "label": "Vignale",
+
+      "critical": true,
+      "source": "local",
+
+      "ui": {
+        "hasButton": true,
+        "buttonSize": { "w": 155, "h": 40 }
+      },
+
+      "content": {
+        "newsFeed": "towns/vignaleNewsV1"
+      },
+
+      "transform": {
+        "position": { "x": 48.4, "y": 0.0, "z": -27.4 },
+        "rotation": { "x": 0, "y": 0, "z": 0 },
+        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
     }
   ],
@@ -659,7 +935,7 @@
      "ui": {
        "hasButton": true,
        "label": "Mercante",
-       "buttonSize": { "w": 170, "h": 40 }
+       "buttonSize": { "w": 180, "h": 40 }
      },
 	 
      "event": {
@@ -695,7 +971,7 @@
      "ui": {
        "hasButton": true,
        "label": "Mercante",
-       "buttonSize": { "w": 170, "h": 40 }
+       "buttonSize": { "w": 180, "h": 40 }
      },
 	 
      "event": {
@@ -731,7 +1007,7 @@
      "ui": {
        "hasButton": true,
        "label": "Viandante",
-       "buttonSize": { "w": 190, "h": 40 }
+       "buttonSize": { "w": 200, "h": 40 }
      },
 	 
      "event": {
@@ -767,7 +1043,7 @@
      "ui": {
        "hasButton": true,
        "label": "Viandante",
-       "buttonSize": { "w": 190, "h": 40 }
+       "buttonSize": { "w": 200, "h": 40 }
      },
 	 
      "event": {
@@ -792,7 +1068,7 @@
 	 
      "spawnNear": {
        "cityId": "Conzano",
-       "offset": { "x": 35, "y": 0.0, "z": 3 }
+       "offset": { "x": 40, "y": 0.0, "z": 3 }
      },
 	 
      "lifecycle": {
@@ -828,7 +1104,7 @@
 	 
      "spawnNear": {
        "cityId": "Chivasso",
-       "offset": { "x": -22, "y": 0, "z": -5 }
+       "offset": { "x": -16, "y": 0, "z": -5 }
      },
 	 
      "lifecycle": {
