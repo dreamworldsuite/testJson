@@ -1,12 +1,12 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "buildingsV1Test72",
+    "nomeJson": "buildingsV1Test73",
     "repoJson": "testJson",
     "note": "Usato per test runtime con jsDelivr"
   },
   "version": 1,
   "minAppVersion": 1,
-  "generatedAt": "2025-02-25T12:00:00Z",
+  "generatedAt": "2025-02-27T12:00:00Z",
   "terrain":{
     "layer":{
       "id": "TL_Grass",

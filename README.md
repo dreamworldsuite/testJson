@@ -1,10 +1,10 @@
 # testJson
 
-Folder -> json                     </br>
-                                   </br>
-test72  -> buildingsV1Test72.json    </br>
+Folder -> json                       </br>
+                                     </br>
+test73  -> buildingsV1Test73.json    </br>
 
 
 Tags:
 
-v0.1.72         -> 25 feb 26
+v0.1.73         -> 27 feb 26
