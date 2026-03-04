@@ -443,7 +443,7 @@
       },
 
       "content": {
-        "newsFeed": "towns/cAnnoneNewsV1"
+        "newsFeed": "towns/castelAnnoneNewsV1"
       },
 
       "transform": {
@@ -1114,7 +1114,7 @@
       },
 
       "transform": {
-        "position": { "x": 127.4, "y": 0.0, "z": 57.2 },
+        "position": { "x": 128, "y": 0.0, "z": 57.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
         "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
       }
@@ -1166,29 +1166,6 @@
       }
     },
 	{
-      "id": "sangermano",
-      "address": "Torre_A",
-      "label": "San Germano",
-
-      "critical": true,
-      "source": "local",
-
-      "ui": {
-        "hasButton": true,
-        "buttonSize": { "w": 220, "h": 40 }
-      },
-
-      "content": {
-        "newsFeed": "towns/sgermanoNewsV1"
-      },
-
-      "transform": {
-        "position": { "x": 75.2, "y": 0.0, "z": 188.5 },
-        "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
-      }
-    },
-	{
       "id": "sangiorgio",
       "address": "Torre_A",
       "label": "San Giorgio",
@@ -1202,7 +1179,7 @@
       },
 
       "content": {
-        "newsFeed": "towns/sgiorgioNewsV1"
+        "newsFeed": "towns/sanGiorgioNewsV1"
       },
 
       "transform": {
@@ -1225,7 +1202,7 @@
       },
 
       "content": {
-        "newsFeed": "towns/sSalvatoreNewsV1"
+        "newsFeed": "towns/sanSalvatoreNewsV1"
       },
 
       "transform": {
