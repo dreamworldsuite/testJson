@@ -1,12 +1,12 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "buildingsV1Test76",
+    "nomeJson": "buildingsV1Test77",
     "repoJson": "testJson",
     "note": "Usato per test runtime con jsDelivr"
   },
   "version": 1,
   "minAppVersion": 1,
-  "generatedAt": "2025-03-04T12:00:00Z",
+  "generatedAt": "2025-03-11T12:00:00Z",
   "terrain":{
     "layer":{
       "id": "TL_Grass",
@@ -35,7 +35,7 @@
       "transform": {
         "position": { "x": 128, "y": 0.0, "z": 254 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -58,7 +58,7 @@
       "transform": {
         "position": { "x": -744.2, "y": 0.0, "z": 370.5 },
         "rotation": { "x": 0, "y": 90, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -81,7 +81,7 @@
       "transform": {
         "position": { "x": -151.7, "y": 0.0, "z": 64.5 },
         "rotation": { "x": 0, "y": 270, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -104,7 +104,7 @@
       "transform": {
         "position": { "x": -48.1, "y": 0.0, "z": 270.3 },
         "rotation": { "x": 0, "y": 180, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -127,7 +127,7 @@
       "transform": {
         "position": { "x": 174.2, "y": 0.0, "z": -776.4 },
         "rotation": { "x": 0, "y": 20, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -150,7 +150,7 @@
       "transform": {
         "position": { "x": -246.9, "y": 0.0, "z": 58.3 },
         "rotation": { "x": 0, "y": 270, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -173,7 +173,7 @@
       "transform": {
         "position": { "x": 16.1, "y": 0.0, "z": -65.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -196,7 +196,7 @@
       "transform": {
         "position": { "x": 53.4, "y": 0.0, "z": 360 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -219,7 +219,7 @@
       "transform": {
         "position": { "x": 579, "y": 0.0, "z": -44.9 },
         "rotation": { "x": 0, "y": 180, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -242,7 +242,7 @@
       "transform": {
         "position": { "x": 248.8, "y": 0.0, "z": 145.3 },
         "rotation": { "x": 0, "y": 160, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -265,7 +265,7 @@
       "transform": {
         "position": { "x": 366, "y": 0.0, "z": 101.6 },
         "rotation": { "x": 0, "y": 250, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -288,7 +288,7 @@
       "transform": {
         "position": { "x": -169.6, "y": 0.0, "z": -34.2 },
         "rotation": { "x": 0, "y": 120, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -311,7 +311,7 @@
       "transform": {
         "position": { "x": 102.3, "y": 0.0, "z": -11.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -334,7 +334,7 @@
       "transform": {
         "position": { "x": -131.8, "y": 0.0, "z": 308.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -357,7 +357,7 @@
       "transform": {
         "position": { "x": -48.2, "y": 0.0, "z": 0.2 },
         "rotation": { "x": 0, "y": 70, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -380,7 +380,7 @@
       "transform": {
         "position": { "x": -86.1, "y": 0.0, "z": -140.4 },
         "rotation": { "x": 0, "y": 45, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -403,7 +403,7 @@
       "transform": {
         "position": { "x": -209.5, "y": 0.0, "z": 144.6 },
         "rotation": { "x": 0, "y": 30, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -426,7 +426,7 @@
       "transform": {
         "position": { "x": 311.3, "y": 0.0, "z": -95.3 },
         "rotation": { "x": 0, "y": 140, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -449,7 +449,7 @@
       "transform": {
         "position": { "x": -77.8, "y": 0.0, "z": -320.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -472,7 +472,7 @@
       "transform": {
         "position": { "x": 41.4, "y": 0.0, "z": 113.3 },
         "rotation": { "x": 0, "y": 160, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -495,7 +495,7 @@
       "transform": {
         "position": { "x": -74.3, "y": 0.0, "z": 142.1 },
         "rotation": { "x": 0, "y": 10, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -518,7 +518,7 @@
       "transform": {
         "position": { "x": -235.3, "y": 0.0, "z": 216.5 },
         "rotation": { "x": 0, "y": 140, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -541,7 +541,7 @@
       "transform": {
         "position": { "x": -1.4, "y": 0.0, "z": -340.8 },
         "rotation": { "x": 0, "y": 65, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -564,7 +564,7 @@
       "transform": {
         "position": { "x": 8, "y": 0.0, "z": 279.7 },
         "rotation": { "x": 0, "y": 80, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -587,7 +587,7 @@
       "transform": {
         "position": { "x": 144.8, "y": 0.0, "z": -6.7 },
         "rotation": { "x": 0, "y": 220, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -610,7 +610,7 @@
       "transform": {
         "position": { "x": 145, "y": 0.0, "z": -72.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -633,7 +633,7 @@
       "transform": {
         "position": { "x": 36.4, "y": 0.0, "z": 20.5 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -656,7 +656,7 @@
       "transform": {
         "position": { "x": 265.3, "y": 0.0, "z": 249.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -679,7 +679,7 @@
       "transform": {
         "position": { "x": 91.2, "y": 0.0, "z": -126.4 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -702,7 +702,7 @@
       "transform": {
         "position": { "x": -270.2, "y": 0.0, "z": 304.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -725,7 +725,7 @@
       "transform": {
         "position": { "x": 315.8, "y": 0.0, "z": 86 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -748,7 +748,7 @@
       "transform": {
         "position": { "x": 73.5, "y": 0.0, "z": 32.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -771,7 +771,7 @@
       "transform": {
         "position": { "x": 186.2, "y": 0.0, "z": -48.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -794,7 +794,7 @@
       "transform": {
         "position": { "x": 278.6, "y": 0.0, "z": 47.5 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -817,7 +817,7 @@
       "transform": {
         "position": { "x": -178.9, "y": 0.0, "z": 243.9 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -840,7 +840,7 @@
       "transform": {
         "position": { "x": -62.1, "y": 0.0, "z": -88.9 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -863,7 +863,7 @@
       "transform": {
         "position": { "x": 0, "y": 0.0, "z": 312.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -886,7 +886,7 @@
       "transform": {
         "position": { "x": -351.9, "y": 0.0, "z": 138.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -909,12 +909,12 @@
       "transform": {
         "position": { "x": 221.4, "y": 0.0, "z": 85.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
       "id": "odalengo_grande",
-      "address": "Torre_A",
+      "address": "Spuntoni_Legno",
       "label": "Odalengo Grande",
 
       "critical": true,
@@ -932,12 +932,12 @@
       "transform": {
         "position": { "x": -309.2, "y": 0.0, "z": 191.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
       "id": "odalengo_piccolo",
-      "address": "Torre_A",
+      "address": "Spuntoni_Legno",
       "label": "Odalengo Piccolo",
 
       "critical": true,
@@ -955,7 +955,7 @@
       "transform": {
         "position": { "x": -243.6, "y": 0.0, "z": 107.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -978,7 +978,7 @@
       "transform": {
         "position": { "x": 3.9, "y": 0.0, "z": 31 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1001,7 +1001,7 @@
       "transform": {
         "position": { "x": 18.4, "y": 0.0, "z": 178.1 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1024,16 +1024,16 @@
       "transform": {
         "position": { "x": -178.1, "y": 0.0, "z": 19.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
       "id": "pessine",
-      "address": "Torre_A",
+      "address": "Castello_Mura",
       "label": "Pessine",
 
-      "critical": true,
-      "source": "local",
+      "critical": false,
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1047,7 +1047,7 @@
       "transform": {
         "position": { "x": -266, "y": 0.0, "z": 130.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1070,7 +1070,7 @@
       "transform": {
         "position": { "x": -88, "y": 0.0, "z": 328.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1093,7 +1093,7 @@
       "transform": {
         "position": { "x": -35.6, "y": 0.0, "z": -188.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1116,7 +1116,7 @@
       "transform": {
         "position": { "x": 128, "y": 0.0, "z": 57.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1139,7 +1139,7 @@
       "transform": {
         "position": { "x": 53.9, "y": 0.0, "z": 128.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1162,7 +1162,7 @@
       "transform": {
         "position": { "x": -12, "y": 0.0, "z": 117.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1185,7 +1185,7 @@
       "transform": {
         "position": { "x": 75.2, "y": 0.0, "z": 188.5 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1208,7 +1208,7 @@
       "transform": {
         "position": { "x": 317.9, "y": 0.0, "z": -66.2 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1231,7 +1231,7 @@
       "transform": {
         "position": { "x": 121.2, "y": 0.0, "z": 133.8 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1254,7 +1254,7 @@
       "transform": {
         "position": { "x": 300.3, "y": 0.0, "z": 164 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1277,7 +1277,7 @@
       "transform": {
         "position": { "x": -6.2, "y": 0.0, "z": 163.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1300,7 +1300,7 @@
       "transform": {
         "position": { "x": -104.2, "y": 0.0, "z": 380.1},
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1323,7 +1323,7 @@
       "transform": {
         "position": { "x": 439.3, "y": 0.0, "z": -16.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1346,7 +1346,7 @@
       "transform": {
         "position": { "x": 341.6, "y": 0.0, "z": 171.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1369,7 +1369,7 @@
       "transform": {
         "position": { "x": 48.4, "y": 0.0, "z": -27.4 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     },
 	{
@@ -1392,7 +1392,7 @@
       "transform": {
         "position": { "x": 180.5, "y": 0.0, "z": 351.6 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.6, "y": 0.6, "z": 0.6 }
+        "scale":    { "x": 0.3, "y": 0.3, "z": 0.3 }
       }
     }
   ],
@@ -1660,6 +1660,150 @@
      "spawnNear": {
        "cityId": "Conzano",
        "offset": { "x": 40, "y": 0.0, "z": 3 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": false,
+       "label": "Fuoco da Campo",
+       "buttonSize": { "w": 250, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "evento_fuoco",
+       "scene": "ViandanteScene",
+       "config": "events/fuoco_da_campo.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 0, "z": 0 },
+       "scale": { "x": 2, "y": 2, "z": 2 }
+     }
+   },
+   {
+     "id": "viandante",
+	 "type": "npc",
+     "address": "Cavallo_Nero",
+     "label": "Viandante a Cavallo",
+	 "source": "remote",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Odalengo Grande",
+       "offset": { "x": 10, "y": 0.0, "z": 0.0 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Viandante",
+       "buttonSize": { "w": 200, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "viandante_trade",
+       "scene": "ViandanteScene",
+       "config": "events/viandante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 130, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "fuoco_da_campo",
+	 "type": "npc",
+     "address": "Fuoco_Campo_Base",
+     "label": "Fuoco da Campo",
+	 "source": "remote",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Odalengo Grande",
+       "offset": { "x": 13, "y": 0.0, "z": 5 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": false,
+       "label": "Fuoco da Campo",
+       "buttonSize": { "w": 250, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "evento_fuoco",
+       "scene": "ViandanteScene",
+       "config": "events/fuoco_da_campo.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 0, "z": 0 },
+       "scale": { "x": 2, "y": 2, "z": 2 }
+     }
+   },
+   {
+     "id": "viandante",
+	 "type": "npc",
+     "address": "Cavallo_Nero",
+     "label": "Viandante a Cavallo",
+	 "source": "remote",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Odalengo Piccolo",
+       "offset": { "x": -10, "y": 0.0, "z": 0 }
+     },
+	 
+     "lifecycle": {
+       "spawn": "onWorldReady",
+       "despawn": "onEventEnd"
+     },
+	 
+     "ui": {
+       "hasButton": true,
+       "label": "Viandante",
+       "buttonSize": { "w": 200, "h": 40 }
+     },
+	 
+     "event": {
+       "id": "viandante_trade",
+       "scene": "ViandanteScene",
+       "config": "events/viandante_trade.json"
+     },
+	 
+     "transform": {
+       "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+       "rotation": { "x": 0, "y": 90, "z": 0 },
+       "scale": { "x": 1.5, "y": 1.5, "z": 1.5 }
+     }
+   },
+   {
+     "id": "fuoco_da_campo",
+	 "type": "npc",
+     "address": "Fuoco_Campo_Base",
+     "label": "Fuoco da Campo",
+	 "source": "remote",
+     "critical": false,
+	 
+     "spawnNear": {
+       "cityId": "Odalengo Piccolo",
+       "offset": { "x": -15, "y": 0.0, "z": 4 }
      },
 	 
      "lifecycle": {
