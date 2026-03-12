@@ -2,9 +2,9 @@
 
 Folder -> json                       </br>
                                      </br>
-test77  -> buildingsV1Test77.json    </br>
+test78  -> buildingsV1Test78.json    </br>
 
 
 Tags:
 
-v0.1.77         -> 11 Marzo 26
+v0.1.78         -> 12 Marzo 26
