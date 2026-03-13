@@ -1,12 +1,12 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "buildingsV1Test78",
+    "nomeJson": "buildingsV1Test79",
     "repoJson": "testJson",
     "note": "Usato per test runtime con jsDelivr"
   },
   "version": 1,
   "minAppVersion": 1,
-  "generatedAt": "2025-03-12T12:00:00Z",
+  "generatedAt": "2026-03-13T12:00:00Z",
   "terrain":{
     "layer":{
       "id": "TL_Grass",
@@ -17,7 +17,7 @@
   [
     {
       "id": "casale",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Casale",
 
       "critical": true,
@@ -40,7 +40,7 @@
     },
 	{
       "id": "chivasso",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Chivasso",
 
       "critical": true,
@@ -63,7 +63,7 @@
     },
 	{
       "id": "moncalvo",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Moncalvo",
 
       "critical": true,
@@ -86,7 +86,7 @@
     },
 	{
       "id": "pontestura",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Pontestura",
 
       "critical": true,
@@ -109,7 +109,7 @@
     },
 	{
       "id": "acqui",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Acqui",
 
       "critical": true,
@@ -132,7 +132,7 @@
     },
 	{
       "id": "alfiano_natta",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Alfiano",
 
       "critical": true,
@@ -155,7 +155,7 @@
     },
 	{
       "id": "altavilla_monferrato",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Altavilla",
 
       "critical": true,
@@ -178,7 +178,7 @@
     },
 	{
       "id": "balzola",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Balzola",
 
       "critical": true,
@@ -201,7 +201,7 @@
     },
 	{
       "id": "bassignana",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Bassignana",
 
       "critical": true,
@@ -224,7 +224,7 @@
     },
 	{
       "id": "borgo_san_martino",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Borgo San Martino",
 
       "critical": true,
@@ -247,7 +247,7 @@
     },
 	{
       "id": "bozzole",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Bozzole",
 
       "critical": true,
@@ -270,7 +270,7 @@
     },
 	{
       "id": "calliano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Calliano",
 
       "critical": true,
@@ -293,7 +293,7 @@
     },
 	{
       "id": "camagna_monferrato",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Camagna",
 
       "critical": true,
@@ -316,7 +316,7 @@
     },
 	{
       "id": "camino",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Camino",
 
       "critical": true,
@@ -339,7 +339,7 @@
     },
 	{
       "id": "casorzo",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Casorzo",
 
       "critical": true,
@@ -362,7 +362,7 @@
     },
 	{
       "id": "castagnole",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Castagnole",
 
       "critical": true,
@@ -385,7 +385,7 @@
     },
 	{
       "id": "castelletto_merli",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Castelletto de' Merli",
 
       "critical": true,
@@ -408,7 +408,7 @@
     },
 	{
       "id": "castelletto_monferrato",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Castelletto",
 
       "critical": true,
@@ -431,7 +431,7 @@
     },
 	{
       "id": "castello_di_annone",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Castel d'Annone",
 
       "critical": true,
@@ -454,7 +454,7 @@
     },
 	{
       "id": "cella_monte",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Cella",
 
       "critical": true,
@@ -477,7 +477,7 @@
     },
 	{
       "id": "cereseto",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Cereseto",
 
       "critical": true,
@@ -500,7 +500,7 @@
     },
 	{
       "id": "cerrina",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Cerrina",
 
       "critical": true,
@@ -523,7 +523,7 @@
     },
 	{
       "id": "cerro_tanaro",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Cerro",
 
       "critical": true,
@@ -546,7 +546,7 @@
     },
 	{
       "id": "coniolo",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Coniolo",
 
       "critical": true,
@@ -569,7 +569,7 @@
     },
 	{
       "id": "conzano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Conzano",
 
       "critical": true,
@@ -592,7 +592,7 @@
     },
 	{
       "id": "cuccaro",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Cuccaro",
 
       "critical": true,
@@ -615,7 +615,7 @@
     },
 	{
       "id": "frassinello",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Frassinello",
 
       "critical": true,
@@ -638,7 +638,7 @@
     },
 	{
       "id": "frassineto_po",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Frassineto",
 
       "critical": true,
@@ -661,7 +661,7 @@
     },
 	{
       "id": "fubine",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Fubine",
 
       "critical": true,
@@ -684,7 +684,7 @@
     },
 	{
       "id": "gabiano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Gabiano",
 
       "critical": true,
@@ -707,7 +707,7 @@
     },
 	{
       "id": "giarole",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Giarole",
 
       "critical": true,
@@ -730,7 +730,7 @@
     },
 	{
       "id": "lignano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Lignano",
 
       "critical": true,
@@ -753,7 +753,7 @@
     },
 	{
       "id": "lu",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Lu",
 
       "critical": true,
@@ -776,7 +776,7 @@
     },
 	{
       "id": "mirabello",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Mirabello",
 
       "critical": true,
@@ -799,7 +799,7 @@
     },
 	{
       "id": "mombello",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Mombello",
 
       "critical": true,
@@ -822,7 +822,7 @@
     },
 	{
       "id": "montemagno",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Montemagno",
 
       "critical": true,
@@ -845,7 +845,7 @@
     },
 	{
       "id": "morano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Morano",
 
       "critical": true,
@@ -868,7 +868,7 @@
     },
 	{
       "id": "murisengo",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Murisengo",
 
       "critical": true,
@@ -891,7 +891,7 @@
     },
 	{
       "id": "occimiano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Occimiano",
 
       "critical": true,
@@ -914,7 +914,7 @@
     },
 	{
       "id": "odalengo_grande",
-      "address": "Spuntoni_Legno",
+      "address": "SpuntoniLegno",
       "label": "Odalengo Grande",
 
       "critical": true,
@@ -937,7 +937,7 @@
     },
 	{
       "id": "odalengo_piccolo",
-      "address": "Spuntoni_Legno",
+      "address": "SpuntoniLegno",
       "label": "Odalengo Piccolo",
 
       "critical": true,
@@ -960,7 +960,7 @@
     },
 	{
       "id": "olivola",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Olivola",
 
       "critical": true,
@@ -983,7 +983,7 @@
     },
 	{
       "id": "ozzano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Ozzano",
 
       "critical": true,
@@ -1006,7 +1006,7 @@
     },
 	{
       "id": "penango",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Penango",
 
       "critical": true,
@@ -1029,7 +1029,7 @@
     },
 	{
       "id": "pessine",
-      "address": "Castello_Mura",
+      "address": "MuraCastello",
       "label": "Pessine",
 
       "critical": true,
@@ -1052,7 +1052,7 @@
     },
 	{
       "id": "pobietto",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Pobietto",
 
       "critical": true,
@@ -1075,7 +1075,7 @@
     },
 	{
       "id": "refrancore",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Refrancore",
 
       "critical": true,
@@ -1098,7 +1098,7 @@
     },
 	{
       "id": "roncaglia",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Roncaglia",
 
       "critical": true,
@@ -1121,7 +1121,7 @@
     },
 	{
       "id": "rosignano",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Rosignano",
 
       "critical": true,
@@ -1144,7 +1144,7 @@
     },
 	{
       "id": "sala",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Sala",
 
       "critical": true,
@@ -1167,7 +1167,7 @@
     },
 	{
       "id": "sangiorgio",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "San Giorgio",
 
       "critical": true,
@@ -1190,7 +1190,7 @@
     },
 	{
       "id": "sansalvatore",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "San Salvatore",
 
       "critical": true,
@@ -1213,7 +1213,7 @@
     },
 	{
       "id": "terruggia",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Terruggia",
 
       "critical": true,
@@ -1236,7 +1236,7 @@
     },
 	{
       "id": "ticineto",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Ticineto",
 
       "critical": true,
@@ -1259,7 +1259,7 @@
     },
 	{
       "id": "treville",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Treville",
 
       "critical": true,
@@ -1282,7 +1282,7 @@
     },
 	{
       "id": "trino",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Trino",
 
       "critical": true,
@@ -1305,7 +1305,7 @@
     },
 	{
       "id": "valenza",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Valenza",
 
       "critical": true,
@@ -1328,7 +1328,7 @@
     },
 	{
       "id": "valmacca",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Valmacca",
 
       "critical": true,
@@ -1351,7 +1351,7 @@
     },
 	{
       "id": "vignale",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Vignale",
 
       "critical": true,
@@ -1374,7 +1374,7 @@
     },
 	{
       "id": "villanova",
-      "address": "Torre_A",
+      "address": "SpuntoniLegno",
       "label": "Villanova",
 
       "critical": true,
@@ -1508,7 +1508,7 @@
    {
      "id": "viandante",
 	 "type": "npc",
-     "address": "Cavallo_Marrone",
+     "address": "CavalloMarrone",
      "label": "Viandante a Cavallo",
 	 "source": "local",
      "critical": false,
@@ -1544,7 +1544,7 @@
    {
      "id": "viandante",
 	 "type": "npc",
-     "address": "Cavallo_Marrone",
+     "address": "CavalloMarrone",
      "label": "Viandante a Cavallo",
 	 "source": "local",
      "critical": false,
@@ -1580,7 +1580,7 @@
    {
      "id": "viandante",
 	 "type": "npc",
-     "address": "Cavallo_Nero",
+     "address": "CavalloNero",
      "label": "Viandante a Cavallo",
 	 "source": "local",
      "critical": false,
@@ -1616,7 +1616,7 @@
    {
      "id": "viandante",
 	 "type": "npc",
-     "address": "Cavallo_Nero",
+     "address": "CavalloNero",
      "label": "Viandante a Cavallo",
 	 "source": "local",
      "critical": false,
