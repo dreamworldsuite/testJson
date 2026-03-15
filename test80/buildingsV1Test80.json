@@ -1,12 +1,12 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "buildingsV1Test79",
+    "nomeJson": "buildingsV1Test80",
     "repoJson": "testJson",
     "note": "Usato per test runtime con jsDelivr"
   },
   "version": 1,
   "minAppVersion": 1,
-  "generatedAt": "2026-03-13T12:00:00Z",
+  "generatedAt": "2026-03-15T12:00:00Z",
   "terrain":{
     "layer":{
       "id": "TL_Grass",
@@ -17,11 +17,11 @@
   [
     {
       "id": "casale",
-      "address": "SpuntoniLegno",
+      "address": "TorreA",
       "label": "Casale",
 
       "critical": true,
-      "source": "local",
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -40,11 +40,11 @@
     },
 	{
       "id": "chivasso",
-      "address": "SpuntoniLegno",
+      "address": "TorreD",
       "label": "Chivasso",
 
-      "critical": true,
-      "source": "local",
+      "critical": false,
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -868,10 +868,10 @@
     },
 	{
       "id": "murisengo",
-      "address": "SpuntoniLegno",
+      "address": "MuraCastello",
       "label": "Murisengo",
 
-      "critical": true,
+      "critical": false,
       "source": "local",
 
       "ui": {
@@ -886,7 +886,7 @@
       "transform": {
         "position": { "x": -351.9, "y": 0.0, "z": 138.3 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
+        "scale":    { "x": 1.5, "y": 1.5, "z": 1.5 }
       }
     },
 	{
@@ -1029,11 +1029,11 @@
     },
 	{
       "id": "pessine",
-      "address": "MuraCastello",
+      "address": "TorreC",
       "label": "Pessine",
 
-      "critical": true,
-      "source": "local",
+      "critical": false,
+      "source": "remote",
 
       "ui": {
         "hasButton": true,
@@ -1047,7 +1047,7 @@
       "transform": {
         "position": { "x": -266, "y": 0.0, "z": 130.7 },
         "rotation": { "x": 0, "y": 0, "z": 0 },
-        "scale":    { "x": 1.5, "y": 1.5, "z": 1.5 }
+        "scale":    { "x": 0.4, "y": 0.4, "z": 0.4 }
       }
     },
 	{
